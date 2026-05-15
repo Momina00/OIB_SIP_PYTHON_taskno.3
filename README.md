@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Working-success)
 ![Beginner Friendly](https://img.shields.io/badge/Project-Beginner%20Friendly-purple)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+
+
 A simple real-time weather application built using Python that fetches live weather information for any city using a weather API.
 
 ## Features
